@@ -1,0 +1,1 @@
+# cost_of_living_api_format
